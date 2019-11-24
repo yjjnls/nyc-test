@@ -1,0 +1,6 @@
+[submodule "did-auth-jose"]
+	path = did-auth-jose
+	url = https://github.com/decentralized-identity/did-auth-jose.git
+[submodule "hub-sdk-js"]
+	path = hub-sdk-js
+	url = https://github.com/decentralized-identity/hub-sdk-js.git
